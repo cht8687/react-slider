@@ -1,4 +1,4 @@
-# React listview with sticky header
+# React Slider
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cht8687/help)
 
 This project is under development.
