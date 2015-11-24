@@ -8,18 +8,6 @@ export default class ReactSlider extends React.Component {
     super(props);
   }
 
-  componentDidMount() {
-
-  }
-
-  componentWillUnmount() {
-
-  }
-
-  componentDidUpdate() {
-
-  }
-
   render() {
 
     return (

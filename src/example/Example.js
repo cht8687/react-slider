@@ -1,4 +1,17 @@
 import React from 'react';
 import ReactSlider from '..';
 
-React.render(<ReactSlider />, document.body);
+
+
+class App extends React.Component {
+
+  render() {
+    return (
+      <ReactSlider 
+      />
+    );
+  }
+}
+
+
+React.render(<App />, document.body);
